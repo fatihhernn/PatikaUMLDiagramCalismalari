@@ -36,6 +36,6 @@ olacaktır.**
 - **Havayolu şirketlerinin pilotları vardır ve her pilotun bir deneyim seviyesi mevcuttur.**
 - **Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir.**
 <p align="center">
-  <img src="https://github.com/fatihhernn/universiteYonetimSistemiUML/blob/main/hayvanatBahcesiUML.png" width="800" height="500" alt=".netProject">
+  <img src="https://github.com/fatihhernn/universiteYonetimSistemiUML/blob/main/HavalimanıYonetimUML.png" width="800" height="500" alt=".netProject">
 </p>
 
