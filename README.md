@@ -21,3 +21,21 @@ olacaktır.**
   <img src="https://github.com/fatihhernn/universiteYonetimSistemiUML/blob/main/hayvanatBahcesiUML.png" width="800" height="500" alt=".netProject">
 </p>
 
+
+<hr/>
+
+# Havalimanı Yönetim UML
+
+- **Havayolu şirketleri uçuşları gerçekleştirir. Her havayolunun bir kimliği vardır.**
+- **Havayolu şirketi, farklı tipteki uçaklara sahiptir.**
+- **Uçaklar çalışır veya onarım durumunda olabilir.**
+- **Her uçuşun benzersiz kimliği, kalkacağı ve ineceği havaalanı, kalkış ve iniş saatleri vardır**
+- **Her uçuşun bir pilotu ve yardımcı pilotu vardır ve uçağı kullanırlar.**
+- **Havaalanlarının benzersiz kimlikleri ve isimleri vardır.**
+- **Havaalanlarının benzersiz kimlikleri ve isimleri vardır.**
+- **Havayolu şirketlerinin pilotları vardır ve her pilotun bir deneyim seviyesi mevcuttur.**
+- **Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir.**
+<p align="center">
+  <img src="https://github.com/fatihhernn/universiteYonetimSistemiUML/blob/main/hayvanatBahcesiUML.png" width="800" height="500" alt=".netProject">
+</p>
+
