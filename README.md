@@ -18,6 +18,6 @@
 - **Sistemin bu işlevleri yerine getirme mantığı, her gruplama için farklı olacaktır. Örneğin, atlar için yem verme algoritması farklı olup, kaplanlar için farklı
 olacaktır.**
 <p align="center">
-  <img src="https://github.com/fatihhernn/universiteYonetimSistemiUML/blob/main/Screenshot_62.png" width="800" height="500" alt=".netProject">
+  <img src="https://github.com/fatihhernn/universiteYonetimSistemiUML/blob/main/hayvanatBahcesiUML.png" width="800" height="500" alt=".netProject">
 </p>
 
