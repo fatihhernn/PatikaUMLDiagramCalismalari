@@ -49,5 +49,5 @@ https://github.com/fatihhernn/PatikaUMLDiagramCalismalari/blob/main/OnlineFilmSi
 - **Eğer film mevcut değilse ise talep edilebilir.**
 
 <p align="center">
-  <img src="https://github.com/fatihhernn/universiteYonetimSistemiUML/blob/main/HavalimanıYonetimUML.png" width="800" height="500" alt=".netProject">
+  <img src="https://github.com/fatihhernn/PatikaUMLDiagramCalismalari/blob/main/OnlineFilmSitesi.png" width="800" height="500" alt=".netProject">
 </p>
