@@ -38,4 +38,16 @@ olacaktır.**
 <p align="center">
   <img src="https://github.com/fatihhernn/universiteYonetimSistemiUML/blob/main/HavalimanıYonetimUML.png" width="800" height="500" alt=".netProject">
 </p>
+https://github.com/fatihhernn/PatikaUMLDiagramCalismalari/blob/main/OnlineFilmSitesi.png
 
+# Online Film Sitesi 
+
+- **Uygulamada filmler listenebilir, sıralanabilir ve kullanıcılar uygulamaya abone olabilir..**
+- **Kullanıcılar abonelik için sistem üzerinden kredi satın alır.**
+- **Sadece abone olan kullanıcılar, kredileri ile film kiralayabilir ve kiraladığı filmin kredi bedeli kadar hesabından düşülür.**
+- **Normal kullanıcılar ve aboneler film satın alabilirler.**
+- **Eğer film mevcut değilse ise talep edilebilir.**
+
+<p align="center">
+  <img src="https://github.com/fatihhernn/universiteYonetimSistemiUML/blob/main/HavalimanıYonetimUML.png" width="800" height="500" alt=".netProject">
+</p>
