@@ -61,5 +61,5 @@ https://github.com/fatihhernn/PatikaUMLDiagramCalismalari/blob/main/OnlineFilmSi
 - **ESimülatör, gerçek zaman geçişini simüle etmek ve simülasyonda meydana gelen olayları zaman damgası ve günlüğe kaydetmek için bir "saat" kullanır. Simülatör tarafından yolcu oluşturmak ve her yolcu için kalkış ve varış katlarını belirlemek için rastgele bir sayı üreteci kullanılır.**
 
 <p align="center">
-  <img src="https://github.com/fatihhernn/PatikaUMLDiagramCalismalari/blob/main/OnlineFilmSitesi.png" width="800" height="500" alt=".netProject">
+  <img src="https://github.com/fatihhernn/PatikaUMLDiagramCalismalari/blob/main/asansor_similasyon.jpg" width="800" height="500" alt=".netProject">
 </p>
